@@ -1,0 +1,24 @@
+
+These came from a MiniMoog Service Manual
+
+Board1p1.gif	board 1, part 1
+Board1p2.gif	board 1, part 2
+Board2p1.gif	board 2, part 1
+Board2p2.gif	board 2, part 2
+Board3p1.gif	board 3, part 1
+Board3p2.gif	board 3, part 2
+Board4p1.gif	board 4, part 1
+Board4p2.gif	board 5, part 2
+Board5p1.gif	panel wiring, part 1
+Board5p2.gif	panel wiring, part 2
+Board5p3.gif	panel wiring, part 3
+Board5p4.gif	panel wiring, part 4
+Bsch01p1.gif	board 1, oscillators
+Bsch01p2.gif	board 1, part2
+Bsch02p1.gif	board 2, envelope generators and keyboard circuit
+Bsch02p2.gif	board 2, part2
+Bsch03p1.gif	board 3, power regulator, noise gen., mod-mix amp, headphone amp
+Bsch03p2.gif	board 3, part2
+Bsch04p1.gif	board 4, A440 ref, input preamp, lamp driver, vca, vcf
+Bsch04p2.gif	board 4, part2
+
